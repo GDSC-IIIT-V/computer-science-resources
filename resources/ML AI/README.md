@@ -1,6 +1,6 @@
 # **Google Developer Student Clubs IIIT Vadodara**
 
-## **Flutter Resources**
+## **ML/AI Resources**
 
 ## Linear Algebra and Calculus:-
 
