@@ -15,4 +15,5 @@
 - GCP Documentation : https://cloud.google.com/architecture/framework 
 - Docker and Kubernetes Tutorial : Docker and Kubernetes - Full Course for Beginners
 - Cloud Certification exam notes https://notes.rishab.cloud/ 
+- Further using student benefits on Qwiklabs and google cloud platform you can get free access to some of Quests on Qwiklabs visit https://cloud.google.com/edu/students .
 
