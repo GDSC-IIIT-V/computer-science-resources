@@ -12,3 +12,4 @@ A collection of all the essential and amazing resources in a proper sequence for
 | ML/AI               | [Link](./resources/ML%20AI/README.md)               |
 | Open Source         | [Link](./resources/Open%20Source/README.md)         |
 | Web Development     | [Link](./resources/Web%20Development/README.md)     |
+| AR/VR               | [Link](./resources/AR%20VR/README.md)               |
